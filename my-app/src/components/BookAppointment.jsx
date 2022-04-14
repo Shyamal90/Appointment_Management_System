@@ -33,7 +33,7 @@ function BookAppointment() {
             slot : bookSlot
         }
 
-        dispatch(savePatientDetails(patientDetl))
+      alert(`${patientName} , your appointment is confirmed!!!`)
         
     }
 

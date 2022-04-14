@@ -1,6 +1,5 @@
 const initialState = {
-    details:{},
-    patientDetails: []
+    details:{}
 }
 
 export const doctorReducer = (state = initialState, action) =>{
