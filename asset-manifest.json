@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Appointment_Management_System/static/css/main.60895f15.css",
+    "main.js": "/Appointment_Management_System/static/js/main.22f08da3.js",
+    "index.html": "/Appointment_Management_System/index.html",
+    "main.60895f15.css.map": "/Appointment_Management_System/static/css/main.60895f15.css.map",
+    "main.22f08da3.js.map": "/Appointment_Management_System/static/js/main.22f08da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60895f15.css",
+    "static/js/main.22f08da3.js"
+  ]
+}
